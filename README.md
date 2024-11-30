@@ -23,7 +23,6 @@ As a student of Information and Communication Technologies with a passion for cy
 ```bash
 python-projects/
 │
-├── projects/             # Complete project implementations
-├── exercises/            # Solutions to coding exercises
-├── experiments/          # Snippets and trials with new libraries and concepts
+├── python/             # Complete project implementations
+├── oob-python/            # Object-oriented python codes
 └── README.md             # This document
