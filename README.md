@@ -1,6 +1,6 @@
 # Python Projects Repository
 
-Welcome to my Python Projects repository! This is a growing collection of projects, scripts, and exercises that I’ve created to sharpen my skills and showcase my journey in Python programming.
+Welcome to my Python Projects repository! This is a growing collection of projects, scripts, and exercises that I’ve used to sharpen my skills and showcase my journey in Python programming.
 
 ## About
 As a student of Information and Communication Technologies with a passion for cybersecurity and DevOps, I’m committed to continuous learning and hands-on experience. This repository serves as a portfolio to document my progress, experiments, and implementations in Python.
